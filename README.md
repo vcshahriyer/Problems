@@ -1,2 +1,2 @@
 # Problems
-Online Judge Problems Solution .
+Online Judge Problem Solutions .
